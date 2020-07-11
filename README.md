@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Abdelrahman Ragab](https://circleci.com/gh/ar-mechx/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/ar-mechx/Operationalize-a-Machine-Learning-Microservice-API)
 
 ## Project Overview
 
